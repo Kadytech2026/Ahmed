@@ -1,0 +1,6 @@
+{
+  "name": "KADY TECH FHD",
+  "description": "تطبيق تحويل وتحسين دقة الصور إلى Full HD وتقنيات شحذ ومعالجة متقدمة وحفظها في المعرض من كادي تك",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

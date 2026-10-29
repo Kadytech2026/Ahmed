@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">KADY TECH FHD</string>
+    <string name="app_subtitle">محوّل الصور فائق الدقة FHD</string>
+    <string name="brand_name">KADY TECH</string>
+    <string name="brand_solutions">Technology Solutions</string>
+    <string name="pick_image_title">اختر صورة أو التقطها</string>
+    <string name="pick_image_desc">يدعم صيغ JPG و PNG و WebP - المعالجة تتم محلياً 100%</string>
+    <string name="select_photo">اختيار صورة من المعرض</string>
+    <string name="select_camera">التقاط صورة جديدة</string>
+    <string name="original_image">الصورة الأصلية</string>
+    <string name="converted_image">بعد التحويل (FHD)</string>
+    <string name="convert_button">تحويل إلى FHD الآن</string>
+    <string name="converting">جاري المعالجة والتحسين…</string>
+    <string name="save_button">حفظ في المعرض</string>
+    <string name="share_button">مشاركة الصورة</string>
+    <string name="new_photo">صورة جديدة</string>
+    <string name="save_success">تم حفظ الصورة في معرض الصور في مجلد Pictures/KADY TECH</string>
+    <string name="save_error">تعذر حفظ الصورة، يرجى المحاولة مرة أخرى</string>
+    <string name="preset_fhd">Full HD (1080p)</string>
+    <string name="preset_2k">2K QHD (1440p)</string>
+    <string name="preset_4k">4K UHD (2160p)</string>
+    <string name="preset_title">دقة الإخراج المستهدفة</string>
+    <string name="sharpness_title">مستوى الشحذ والتفاصيل</string>
+    <string name="quality_title">جودة الضغط</string>
+    <string name="tab_converter">المحوّل</string>
+    <string name="tab_history">الصور المحفوظة</string>
+    <string name="tab_about">عن كادي تك</string>
+    <string name="no_history">لا توجد صور محفوظة بعد في مجلد KADY TECH</string>
+    <string name="drag_slider_hint">اسحب الخط للمقارنة بين قبل وبعد</string>
+</resources>
